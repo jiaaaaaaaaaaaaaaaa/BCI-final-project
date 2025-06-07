@@ -89,6 +89,7 @@ mean_alpha
 mean_theta
 
 % 重複五位低錯誤率參與者
+
 low_alpha = [];  
 
 low_theta = [];
@@ -98,6 +99,7 @@ low_alpha(:, i) = mean_alpha;
 low_theta(:, i) = mean_theta;
 
 % 重複五位高錯誤率參與者
+
 high_alpha = [];  
 
 high_theta = [];
@@ -150,6 +152,7 @@ ylabel('Theta Power');
 title('Theta Power - Low vs High Error');
 
 % T test
+
 [~, p_alpha, ~, stats_alpha] = ttest2(low_alpha_avg, high_alpha_avg);
 
 [~, p_theta, ~, stats_theta] = ttest2(low_theta_avg, high_theta_avg);
