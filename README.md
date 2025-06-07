@@ -9,10 +9,15 @@ This project presents an EEG-based analysis framework aimed at investigating gro
 #dataset
 
 Dataset: Sustained Attention Task (gradCPT) using EEG-fMRI and DTI
+
 Source: OpenNeuro.org
+
 Participants: 29 healthy adults (ages 19–42)
+
 EEG channels: 64
+
 Sampling rate: 1000 Hz
+
 Hardware: Simultaneous EEG setup(GradOFF)
 
 #objective
