@@ -43,7 +43,9 @@ Power spectral density (PSD) and time-frequency decomposition
 
 (3)Grouping:
 Participants are chosen if they have the top 5 of the highest and lowest error rates based on the behavioral data
+
 High error group participant number(error rate): 6(0.56),21(0.29),23(0.32),26(0.57),27(0.54)
+
 Low error group participant number(error rate):8(0.013),10(0.012),12(0.034),16(0.030),17(0.029)
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/823a7396-b9de-400e-8137-75f30f37b0ba" />
