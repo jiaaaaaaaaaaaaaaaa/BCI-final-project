@@ -54,5 +54,17 @@ Robust artifact removal verified via ICA component inspection
 Statistical comparisons between groups with correction for multiple comparisons
 Visual inspection of ERP and spectral topographies
 
+#reference
+Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. Trends in cognitive sciences, 18(8), 414-421.https://doi.org/10.1016/j.tics.2014.04.012
+
+Esterman, M., Noonan, S. K., Rosenberg, M., & DeGutis, J. (2013). In the zone or zoning out? Tracking behavioral and neural fluctuations during sustained attention. Cerebral cortex, 23(11), 2712-2723. https://doi.org/10.1093/cercor/bhs261
+
+Foxe, J. J., & Snyder, A. C. (2011). The role of alpha-band brain oscillations as a sensory suppression mechanism during selective attention. Frontiers in Psychology, 2, 154. https://doi.org/10.3389/fpsyg.2011.00154
+
+Van Diepen, R. M., Foxe, J. J., & Mazaheri, A. (2019). The functional role of alpha-band activity in attentional processing: the current zeitgeist and future outlook.Current Opinion in Psychology, 29, 229-238.https://doi.org/10.1016/j.copsyc.2019.03.015.
+
+Weber, J., Solbakk, A. K., Blenkmann, A. O., Llorens, A., Funderud, I., Leske, S., ... & Helfrich, R. F. (2024). Ramping dynamics and theta oscillations reflect dissociable signatures during rule-guided human behavior. Nature Communications, 15(1),637. https://doi.org/10.1038/s41467-023-44571-7
+
+Zhang, W., Zhang, Y., Zhang, Q., & Xu, J. (2022). Sustained attention states recognition with EEG and eye-tracking in the GradCPT. International Conference on Human-Computer Interaction, 213-221.https://doi.org/10.1007/978-3-031-05457-0_18
 
 
