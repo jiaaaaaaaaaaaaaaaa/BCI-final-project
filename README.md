@@ -55,6 +55,7 @@ Statistical comparisons between groups with correction for multiple comparisons
 Visual inspection of ERP and spectral topographies
 
 #reference
+
 Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. Trends in cognitive sciences, 18(8), 414-421.https://doi.org/10.1016/j.tics.2014.04.012
 
 Esterman, M., Noonan, S. K., Rosenberg, M., & DeGutis, J. (2013). In the zone or zoning out? Tracking behavioral and neural fluctuations during sustained attention. Cerebral cortex, 23(11), 2712-2723. https://doi.org/10.1093/cercor/bhs261
