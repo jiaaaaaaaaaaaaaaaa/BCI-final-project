@@ -40,6 +40,8 @@ Power spectral density (PSD) and time-frequency decomposition
 Participants are chosen if they have the top 5 of the highest and lowest error rates
 
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/823a7396-b9de-400e-8137-75f30f37b0ba" />
+
+
 #Statistical Analysis:
 
 Independent-sample t-tests to compare EEG features across groups
