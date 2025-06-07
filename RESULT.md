@@ -8,3 +8,4 @@ Figure 1. the independent t-test for alpha waves in Fp1 and Fp2 and theta waves 
 
 Figure 2. the comparison of the alpha waves in Fp1 and Fp2 and theta waves in Fz and Pz of high error rates participants between participants with high and low error rates
 
+Although the present study didn't reveal significant differences in alpha and theta brain wave activities between participants with high and low error rates, a trend was observed: participants with lower error rates exhibited higher power in both the alpha and theta frequency bands. While not statistically significant, this pattern may reflect more stable attentional control and lower cognitive load during the task. This finding is consistent with previous research suggesting that alpha and theta activity may serve as neural indicators of attention quality.
