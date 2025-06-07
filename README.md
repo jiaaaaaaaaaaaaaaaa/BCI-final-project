@@ -29,7 +29,7 @@ The EEG analysis pipeline includes:
 (1)Preprocessing:
 Bandpass filtering (1–50 Hz)
 Artifact rejection using ICA and ICLabel
-Epoching around stimulus onset (−1000 ms to 0 ms)
+Epoching around stimulus onset (−1000 ms to 2000 ms)
 
 (2)Feature Extraction:
 Alpha power (8–13 Hz) and theta power (4–7 Hz)
